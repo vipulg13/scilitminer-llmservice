@@ -1,0 +1,15 @@
+uvicorn==0.18.3
+fastapi==0.103.1
+pydantic==2.5.3
+pydantic-settings==2.1.0
+openai==1.107.2 #1.52.0
+azure-identity==1.21.0
+polars==0.20.3
+transformers==4.42.4
+python-multipart==0.0.12
+seaborn==0.13.2
+grobid-client-python==0.0.9
+lxml==6.0.0
+dateparser==1.2.2
+beautifulsoup4==4.13.4
+azure-core==1.35.1 
